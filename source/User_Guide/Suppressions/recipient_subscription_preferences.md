@@ -24,7 +24,7 @@ When a recipient clicks the Unsubscribe link, they will be asked to confirm thei
 The Email Preferences Link
 {% endanchor %}
 
-If you choose not to use substitution tags, your emails will automatically have am Email Preferences link, which when clicked will show recipients their personalized Email Preferences page. From here, recipients will be able to see all of your Unsubscribe Groups and their descriptions. They will then be able to choose whether or not they want to receive those types of emails.
+If you choose not to use substitution tags, your emails will automatically have an Email Preferences link, which when clicked will show recipients their personalized Email Preferences page. From here, recipients will be able to see all of your Unsubscribe Groups and their descriptions. They will then be able to choose whether or not they want to receive those types of emails.
 
 {% anchor h3 %}
 Manage Email Preferences
