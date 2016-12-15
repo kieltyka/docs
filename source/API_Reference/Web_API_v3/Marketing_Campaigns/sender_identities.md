@@ -79,7 +79,7 @@ This endpoint allows you to retrieve a list of all of your sender identities.
 {% apiv3example get GET https://api.sendgrid.com/v3/senders %}
 {% v3response %}
 {
-  "result": [
+  [
     {
       "id": 1,
       "nickname": "My Sender ID",
