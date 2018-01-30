@@ -30,6 +30,8 @@ MAIL_FROM_NAME="John Smith"
 MAIL_FROM_ADDRESS=from@example.com
 {% endcodeblock %}
 
+Note: You may need to hardcode these values in your mail.php folder if you receive a 550 Unauthenticated senders not allowed error
+
 {% info %}
 The `MAIL_FROM_NAME` field requires double quotes because there is a space in the string.
 {% endinfo %}
